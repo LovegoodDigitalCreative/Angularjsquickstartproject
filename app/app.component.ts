@@ -13,7 +13,6 @@ import { Component } from '@angular/core';
     `
 })
 
-
 // App component (this is a class)
 export class AppComponent {
   // Title is a literal string so it is joined by a =
